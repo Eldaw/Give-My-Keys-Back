@@ -1,10 +1,10 @@
 Give-My-Keys-Back
-v1.0 (2014-07-28)
 =================
 
 Remap keys to provide the functionality of the missing keys on the Microsoft All-in-One Media Keyboard
 
-=================
+-----------------
+v1.0 (2014-07-28)
 
 The Microsoft All-in-One Media Keyboard is missing some important keys such as Home, End, Insert, PrtScn, Pause/Break, Scroll Lock, and Num Lock.
 
